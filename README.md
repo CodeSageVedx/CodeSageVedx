@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Vedant Kanoje** <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+- :credit_card: My full name is **Vedant Kanoje** <img align="right" height="200px" width= "220px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 - :school: I'm currently the Final year student at **VIT**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Nagpur, Maharashtra**
@@ -19,6 +19,8 @@
 <br/>
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
    
+  <br/>
+  <br/>
   <br/>
 <table align="center">
   <tr align="center">
