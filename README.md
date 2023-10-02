@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Vedant Kanoje** <img align="right" height="250px" width= "270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-- :school: I'm currently the Final year student at **VIT**
+- :school: I'm currently a sophomore at **VIT**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Nagpur, Maharashtra**
 - :sweat_smile: I'm a intermediate in coding :penguin:
