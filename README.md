@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Shourya+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Vedant+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Vedant Kanoje** <img align="right" height="200px" width= "220px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+- :credit_card: My full name is **Vedant Kanoje** <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 - :school: I'm currently the Final year student at **VIT**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Nagpur, Maharashtra**
@@ -14,9 +14,7 @@
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
 <br/>
-<br/>
-<br/>
-<br/>
+
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
    
   <br/>
