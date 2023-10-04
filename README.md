@@ -6,7 +6,7 @@
 
 - :credit_card: My full name is **Vedant Kanoje** <img align="right" height="250px" width= "270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 - :school: I'm currently a sophomore at **VIT**
-- :books: My major is **Software Engineering**
+- :books: My major is **Computer Science Engineering**
 - :earth_asia: I'm living now in **Nagpur, Maharashtra**
 - :sweat_smile: I'm a intermediate in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching anime
