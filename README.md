@@ -124,13 +124,21 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 
-# Stats 🕰
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeSageVedx&theme=github_dark">
+# GitHub Stats :
+<br/>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeSageVedx&theme=vision_friendly_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeSageVedx&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
 </p>
 
-<hr>
+
+# Contribution History :
+<br/>
+<p align="center" style="width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeSageVedx&theme=dark">
+</p>
+
 
 <h1 align='center'>Thank You!!!!!</h1>
 <p align="center">
