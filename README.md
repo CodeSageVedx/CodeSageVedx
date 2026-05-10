@@ -9,10 +9,7 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
-
-</br>
 </br>  
-</br>
 
 # About Me 💬
 
@@ -105,7 +102,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="left" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -120,13 +117,24 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
  </p>
- 
-
-</br>
-</br>
 </br>
 </br>
 </br>
 </br>
 </br>
 
+
+# Stats 🕰
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeSageVedx&theme=github_dark">
+</p>
+
+<hr>
+
+<h1 align='center'>Thank You!!!!!</h1>
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<br>
